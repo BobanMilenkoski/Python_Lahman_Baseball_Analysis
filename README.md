@@ -23,7 +23,7 @@ To run this project, you will need the following Python packages:
 
 ## Project Structure
 - `lahman.sqlite` - SQLite database file containing Lahman’s baseball data.
-- `baseball_analysis.py` - Python script with the code for querying and analyzing the database.
+- `Lahmans_Baseball_Project_Boban_Milenkoski.ipynb` - Python script with the code for querying and analyzing the database.
 - `README.md` - This readme file that provides details about the project.
 
 ---
